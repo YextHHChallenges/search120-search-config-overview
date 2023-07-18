@@ -1,5 +1,4 @@
 {
-  "$id": "seasonalContent",
   "$schema": "https://schema.yext.com/config/km/entity-template/v2",
   "content": {
     "featuredMessage": {
@@ -10,5 +9,6 @@
   "entityTypes": [
     "restaurant"
   ],
-  "name": "Seasonal Content"
+  "name": "Seasonal Content",
+  "$id": "seasonalContent"
 }

@@ -5,6 +5,5 @@
   "entityType": "faq",
   "fields": [
     "c_primaryCTA"
-  ],
-  "required": []
+  ]
 }

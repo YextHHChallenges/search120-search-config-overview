@@ -9,6 +9,5 @@
     "c_jobDepartment",
     "c_jobPhoto",
     "c_jobQualifications"
-  ],
-  "required": []
+  ]
 }

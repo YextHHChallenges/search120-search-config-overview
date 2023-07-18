@@ -6,6 +6,5 @@
   "fields": [
     "c_featuredGuests",
     "c_primaryCTA"
-  ],
-  "required": []
+  ]
 }

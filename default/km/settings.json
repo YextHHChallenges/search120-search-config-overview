@@ -3,21 +3,13 @@
   "primaryEntityType": "restaurant",
   "entityTypeSettings": [
     {
-      "entityType": "hotel",
+      "entityType": "atm",
       "disabled": true
     },
     {
-      "entityType": "location",
+      "entityType": "event",
+      "defaultFieldEligibilityGroup": "event.default",
       "disabled": false
-    },
-    {
-      "entityType": "job",
-      "defaultFieldEligibilityGroup": "job.default",
-      "disabled": false
-    },
-    {
-      "entityType": "healthcareProfessional",
-      "disabled": true
     },
     {
       "entityType": "faq",
@@ -29,25 +21,7 @@
       "disabled": true
     },
     {
-      "entityType": "event",
-      "defaultFieldEligibilityGroup": "event.default",
-      "disabled": false
-    },
-    {
-      "entityType": "hotelRoomType",
-      "disabled": true
-    },
-    {
-      "entityType": "atm",
-      "disabled": true
-    },
-    {
-      "entityType": "restaurant",
-      "defaultFieldEligibilityGroup": "restaurant.default",
-      "disabled": false
-    },
-    {
-      "entityType": "organization",
+      "entityType": "healthcareProfessional",
       "disabled": true
     },
     {
@@ -55,17 +29,26 @@
       "disabled": false
     },
     {
-      "entityType": "ce_communityStory",
-      "defaultFieldEligibilityGroup": "ce_communityStory.default",
+      "entityType": "hotel",
+      "disabled": true
+    },
+    {
+      "entityType": "job",
+      "defaultFieldEligibilityGroup": "job.default",
       "disabled": false
     },
     {
-      "entityType": "product",
+      "entityType": "location",
+      "disabled": false
+    },
+    {
+      "entityType": "organization",
       "disabled": true
     },
     {
-      "entityType": "financialProfessional",
-      "disabled": true
+      "entityType": "restaurant",
+      "defaultFieldEligibilityGroup": "restaurant.default",
+      "disabled": false
     }
   ]
 }

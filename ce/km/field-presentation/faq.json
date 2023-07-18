@@ -121,10 +121,6 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "question",
-          "visibleOnAdd": true
-        },
-        {
           "id": "name",
           "visibleOnAdd": true
         },
