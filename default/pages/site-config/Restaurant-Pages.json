@@ -1,9 +1,9 @@
 {
-  "$id": "Restaurant Pages",
+  "$id": "Restaurant-Pages",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "features": [
     {
-      "feature": "Restaurant-Landing-Pages",
+      "feature": "Restaurants-Landing-Pages",
       "featureType": "SELF_SERVE_PAGE_SET"
     }
   ],
