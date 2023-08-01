@@ -3,7 +3,6 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "answer": "We offer our employees a wide range of benefits. In addition, we have a company culture of learn fast, think big, and get stuff done. We want to help employees grow in their careers.",
     "answerV2": {
       "json": {
         "root": {
